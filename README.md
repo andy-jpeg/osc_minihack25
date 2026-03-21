@@ -28,7 +28,7 @@ This puzzle lets the player control a ball by typing directions into a text box!
 
 ### Puzzle 2: Sorting Items Based on Categories
 
-This puzzle asks the player to sort items into their correct categories while an TV powered by the same ChatGPT API observes and learns from their actions. As players organize items, the AI collects data to "train" itself and reports to the player what it has observed so far, creating a dynamic system that adapts over time.
+This puzzle asks the player to sort items into their correct categories while an TV powered by the same ChatGPT API observes and learns from their actions! As players organize items, the AI collects data to "train" itself and reports to the player what it has observed so far.
 
 ![Gameplay of AI-powered sorting items puzzle](gifs/Sorting_1.gif)
 ![Gameplay of AI-powered sorting items puzzle](gifs/Sorting_2.gif)<br>
